@@ -1,0 +1,9 @@
+[submodule "anime_pose_generator/kohya_ss"]
+	path = anime_pose_generator/kohya_ss
+	url = https://github.com/bmaltais/kohya_ss.git
+[submodule "anime_pose_generator/sd-scripts"]
+	path = anime_pose_generator/sd-scripts
+	url = https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
+[submodule "anime_pose_generator/models/deepdanbooru_model"]
+	path = anime_pose_generator/models/deepdanbooru_model
+	url = https://github.com/KichangKim/DeepDanbooru.git
